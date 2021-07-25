@@ -1,8 +1,7 @@
 
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Snehal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/snehal-chirmade-8b3a63216/)](snehal-chirmade-8b3a63216/)
 
 I'm an
 IT Engineer
